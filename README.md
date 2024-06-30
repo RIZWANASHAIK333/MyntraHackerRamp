@@ -63,6 +63,10 @@ The app provides options to share the image on social media platforms.
 The user selects the desired platform and shares the image.
 
 
+![image](https://github.com/RIZWANASHAIK333/MyntraHackerRamp/assets/123793579/61d5ce99-2404-47aa-bc80-9ed1c91a2023)
+
+
+
 **Step - 4: Occasion-Based Calendar Feature**
 
 Example Workflow:
